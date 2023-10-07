@@ -1,11 +1,11 @@
-package Theory.I_O_stream;
+package Theory.I_O_stream.ByteStreamm.Outputt;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 
-public class outputt {
+public class FileOutputtStream {
     public static void main(String[] args) {
         String data = "This is a line of text inside the file";
         try{

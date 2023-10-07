@@ -1,4 +1,4 @@
-package Theory.I_O_stream;
+package Theory.I_O_stream.ByteStreamm.Inputt;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -8,7 +8,7 @@ import java.io.InputStream;
 //note
 //Byte Stream
 //Byte stream is used to read and write a single byte (8 bits) of data
-public class Streams {
+public class FileInputtStream {
     public static void main(String[] args) {
         byte[] array = new byte[100];
         try{
