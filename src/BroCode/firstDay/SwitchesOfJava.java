@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 public class SwitchesOfJava {
     public static void main(String[] args) {

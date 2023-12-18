@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 import java.util.ArrayList;
 

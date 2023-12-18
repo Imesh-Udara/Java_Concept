@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 public class WrapperClass {
     public static void main(String[] args) {

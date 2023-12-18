@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 public class SwapVariables {
     public static void main(String[] args) {

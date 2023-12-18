@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 public class Two2DArray {
     public static void main(String[] args) {

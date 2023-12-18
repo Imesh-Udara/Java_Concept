@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 import javax.swing.*;
 

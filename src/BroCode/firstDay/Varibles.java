@@ -1,4 +1,4 @@
-package BroCode;
+package BroCode.firstDay;
 
 public class Varibles {
     public static void main(String[] args) {
