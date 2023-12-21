@@ -1,0 +1,8 @@
+package BroCode.fifthDay.Polimophism;
+
+public class Bicycle extends Vehicle{
+    @Override
+    public void go(){
+        System.out.println("*The Bicycle beging moving*");
+    }
+}
